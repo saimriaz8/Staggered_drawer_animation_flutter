@@ -45,3 +45,5 @@ You can customize the animation duration, easing curves, menu items, and UI elem
 ## Author
 Saim (saimriaz8)
 
+## Video
+https://github.com/user-attachments/assets/f3a359d5-55a5-4c7f-992e-cdd916a55262
